@@ -1,0 +1,10 @@
+{
+  "name": "testing-gpg-key",
+  "version": "1.0.0",
+  "description": "A repo for testing",
+  "main": "index.js",
+  "repository": "git@github.com:hi5a/testing-gpg-key.git",
+  "author": "Andrew Ball <andrew@nordicgamelab.org>",
+  "license": "MIT",
+  "private": false
+}
