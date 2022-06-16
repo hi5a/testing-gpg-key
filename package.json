@@ -6,5 +6,9 @@
   "repository": "git@github.com:hi5a/testing-gpg-key.git",
   "author": "Andrew Ball <andrew@nordicgamelab.org>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "electron": "^19.0.4",
+    "electron-builder": "^23.0.3"
+  }
 }
